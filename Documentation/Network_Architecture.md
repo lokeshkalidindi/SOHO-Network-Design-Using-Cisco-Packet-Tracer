@@ -12,7 +12,7 @@ Each department is assigned a separate VLAN to organize the network and provide 
 
 The following devices are used in this project:
 
-| Device | Model | Type | Purpose |
+| Device | Model / Type | Purpose |
 |---|---|---|
 | Router | Cisco 2911 | Inter-VLAN routing and DHCP |
 | Switch | Cisco 2960 | Connecting network devices and managing VLANs |
